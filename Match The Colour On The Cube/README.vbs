@@ -1,0 +1,1 @@
+X=MsgBox("Match The Colour On The Cube, You Have To Match The Colours in The Sequence Given. Enjoy!",4+64,"README")
